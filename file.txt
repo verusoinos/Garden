@@ -1,1 +1,1 @@
-If at first you don't succeed, destroy all evidence that you tried.
+"An ounce of prevention is worth a ton of code." -- an anonymous programmer
