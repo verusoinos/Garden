@@ -1,1 +1,1 @@
-"An ounce of prevention is worth a ton of code." -- an anonymous programmer
+It's all magic. :-) -- Larry Wall in <7282@jpl-devvax.JPL.NASA.GOV>
