@@ -1,2 +1,2 @@
 # Garden
-Repo for greenize activities
+Repos for greenize activities
