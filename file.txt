@@ -1,1 +1,1 @@
-Emacs is a nice operating system, but what it lacks, in order to compete with Linux, is a good text editor. — based on https://en.wikiquote.org/wiki/Emacs
+Experience teaches you that the man who looks you straight in the eye, particularly if he adds a firm handshake, is hiding something. -- Clifton Fadiman, "Enter Conversing"
