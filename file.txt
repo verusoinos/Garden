@@ -1,1 +1,1 @@
-Leave no stone unturned. -- Euripides
+<Mercury> At that point it will compile, but segfault, as it should..
