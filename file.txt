@@ -1,1 +1,1 @@
-Boss: You forgot to assign the result of your map! Hacker: Dang, I'm always forgetting my assignations... Boss: And what's that "goto" doing there?!? Hacker: Er, I guess my finger slipped when I was typing "getservbyport"... Boss: Ah well, accidents will happen. Maybe we should have picked APL. -- Larry Wall in <199710311732.JAA19169@wall.org>
+Anyone who has had a bull by the tail knows five or six more things than someone who hasn't. -- Mark Twain
