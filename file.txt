@@ -1,1 +1,1 @@
-The universe is like a safe to which there is a combination -- but the combination is locked up in the safe. -- Peter DeVries
+Boss: You forgot to assign the result of your map! Hacker: Dang, I'm always forgetting my assignations... Boss: And what's that "goto" doing there?!? Hacker: Er, I guess my finger slipped when I was typing "getservbyport"... Boss: Ah well, accidents will happen. Maybe we should have picked APL. -- Larry Wall in <199710311732.JAA19169@wall.org>
