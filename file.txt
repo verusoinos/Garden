@@ -1,1 +1,1 @@
-<<< Why Eclipse doesn't belong to the "right" tools? My naive understanding is that Eclipse is the Emacs of the 21st century – it is open source, customizable etc., similar to Emacs; in addition to being graphical. >>> Thank you! I was wondering why I hated Eclipse so much, and you have put your finger on it. It's exactly like a 21st century Emacs. -- Shachar Shemesh -- Re: [Haifux] [W2L] Call for lecturer + "Linux guru" ( https://is.gd/PbULJR )
+Avoid strange women and temporary variables.
