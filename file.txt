@@ -1,1 +1,1 @@
-Chip Salzenberg sent me a complete patch to add System V IPC (msg, sem and shm calls), so I added them. If that bothers you, you can always undefine them in config.sh. :-) -- Larry Wall in <9384@jpl-devvax.JPL.NASA.GOV>
+Nonsense and beauty have close connections. -- E. M. Forster
