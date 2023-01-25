@@ -15,4 +15,4 @@ do
 done
 
 bash ~/garden/commit.sh
-/usr/bin/git -C ~/garden push -u https://{token}/verusoinos/Garden.git main
+/usr/bin/git -C ~/garden push -u https://{github:token}/{verusoinos:name}/{Garden:repos}.git main
