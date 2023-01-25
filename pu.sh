@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RNUM=$(($RANDOM % 29))
+RNUM=$(($RANDOM % 7))
 
 for ((run=1; run <= RNUM + 1; run++))
 do
